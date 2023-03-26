@@ -5,6 +5,9 @@
 }
 .full{
     width: 100%;
+    background-position: center;
+    background-color: black;
+    background-size: cover;
 }
 body{
     font-family: sans-serif;
